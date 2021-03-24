@@ -1,2 +1,2 @@
-# PacManExercise
+# PacManProject
  PacMan Coding Exercise
